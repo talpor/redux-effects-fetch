@@ -24,7 +24,7 @@
   "homepage": "https://github.com/redux-effects/redux-effects-fetch",
   "dependencies": {
     "es6-promise": "^3.0.2",
-    "isomorphic-fetch": "^2.1.1"
+    "isomorphic-fetch": "github:talpor/isomorphic-fetch"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
